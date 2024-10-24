@@ -1,5 +1,5 @@
 def func(x):
-    return x + 2
+    return 2 + x
 
 
 def test_answer():
